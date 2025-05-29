@@ -23,7 +23,7 @@ export default function WhyVWA() {
             viewport={{ once: true }}
           >
             <Image
-              src="/images/why-vwa-updated.png"
+              src="/images/why-vwa>rwa.png"
               alt="Why VWA - Virtual World Assets characteristics: Scalable, Composable, Liquid, Future-Proof"
               width={800}
               height={600}
