@@ -72,16 +72,6 @@ export default function Hero() {
             Experience the future of virtual agents onchain with our stunning globe interface
           </motion.p>
 
-          <motion.p
-            className="text-xl md:text-2xl text-white/80 mb-4 max-w-2xl mx-auto"
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.8 }}
-          >
-            Create, develop and trade yourself AI Agents with SelfyAI. <br />
-            Mission: Explore and Expand VWA (Virtual World Assets) Market.
-          </motion.p>
-
           <motion.div
             className="flex flex-col sm:flex-row gap-4 justify-center"
             initial={{ opacity: 0, y: 30 }}
